@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ShiftRole
+comment1.params=position
+comment1.target=ShiftRole(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

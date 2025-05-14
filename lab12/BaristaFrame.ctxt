@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BaristaFrame
+comment1.params=title
+comment1.target=BaristaFrame(java.lang.String)
+comment2.params=
+comment2.target=void\ setupUI()
+numComments=3

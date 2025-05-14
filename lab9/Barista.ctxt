@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Barista
+comment1.params=name\ hoursWorked\ role
+comment1.target=Barista(java.lang.String,\ int,\ ShiftRole)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
